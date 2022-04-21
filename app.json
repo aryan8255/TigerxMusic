@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/aryan8255/TigerxMusic.git",
+    "repository": "https://github.com/SJMxADITI/TryMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
