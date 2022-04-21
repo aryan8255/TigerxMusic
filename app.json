@@ -1,13 +1,13 @@
 {
-    "name": "TrickyAbhi-Music",
+    "name": "TigerxMusic",
     "logo": "",
-    "description": "TrickyAbhi-Music allow you to stream music trought the telegram voice chat feature.",
+    "description": "TigerxMusic allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music", 
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/SJMxADITI/TryMusic",
+    "repository": "https://github.com/aryan8255/TigerxMusic.git",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
