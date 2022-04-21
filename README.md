@@ -1,4 +1,4 @@
-<h1 align="center"><b>Tricky-Music</b></h1>
+<h1 align="center"><b>TigerxMusic</b></h1>
 
 
 
@@ -31,24 +31,18 @@
   
 
   
-# TrickyAbhi-Music
-OMFO Gimme a star and follow me 
+# TigerxMusic
+Gimme a star and follow me on telegram @tiger_iz_here
   
   
   
 ### Noob Developers 
-  
- <a href="https://github.com/AnonymousR1025"><img src="https://img.shields.io/badge/pro%20 Anonymous-ReD.svg?style=for-the-badge&logo=Python"></a> 
 
-<a href="https://t.me/herox_xd"><img src="https://img.shields.io/badge/Noob%20 Herox-ReD.svg?style=for-the-badge&logo=Python"></a> 
-  
-  <a href="https://t.me/ABHIISH3K_xD"><img src="https://img.shields.io/badge/Piro%20 Abhishek-Green.svg?style=for-the-badge&logo=Python"></a>
-## Support & Updates 
-<a href="https://t.me/TrickyAbhii_Op"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Techno_Trickop"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-  
+  @tiger_iz_here
+
 # Join crow frnd 
   
   
 - Click Here 👇🏻 And join pls 
   
-  [![Herox](https://telegra.ph/file/39e17ab3a96207d3e15ac.jpg)](https://t.me/aboutez)
+  [![Herox](https://telegra.ph/file/39e17ab3a96207d3e15ac.jpg)] https://t.me/MightyXSupport
